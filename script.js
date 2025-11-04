@@ -1,5 +1,6 @@
 function stringChop(str, size) {
-  // your code here
+  let newstr=str.substirng(0,5)
+  console.log(newstr)
 }
 
 // Do not change the code below
